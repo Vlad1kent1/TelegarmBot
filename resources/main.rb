@@ -1,4 +1,5 @@
 require 'telegram/bot'
+require 'dotenv/load'
 
 require_relative 'setup'
 require_relative 'start_end'
